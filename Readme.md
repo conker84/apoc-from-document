@@ -1,0 +1,1 @@
+This is the repository of the article [Transform MongoDB collections automagically into Graphs](https://medium.com/neo4j/transform-mongodb-collections-automagically-into-graphs-9ea085d6e3ef)
